@@ -63,6 +63,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Two__c</fullName>
+        <externalId>false</externalId>
+        <label>Two</label>
+        <length>16</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Object1</label>
     <nameField>
         <label>Object1 Name</label>
