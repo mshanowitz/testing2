@@ -3,7 +3,7 @@ public class Object1_Actions {
     {
         for (Object1__c o1 : objects1)
         {
-            o1.Name += '_ooooo_';
+            o1.Name += '_oooooo_';
         }
     }
 }
